@@ -3,3 +3,9 @@ This is my newfile for git exercise.
 - This is my revised newfile.txt
 
 - This is edited using GitHub
+
+
+Difference between Add, Commit and Push?
+1. Add - Stages the changes/revisions made to the file in the queue or in stage.
+2. Commit - Saves the changes with a revision log. Does not mean that it is already merged with the remote repository. Changes are still in local repository.
+3. Push - Merges the change made to the remote repository
