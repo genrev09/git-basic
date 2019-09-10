@@ -1,3 +1,5 @@
 This is my newfile for git exercise.
 
 - This is my revised newfile.txt
+
+- This is edited using GitHub
